@@ -7,9 +7,10 @@
 #### Em março de 2021 comecei a estudar programação na plataforma Alura, onde inicialmente estou focando na formação de **_Front End Web Developer_**.
 
 #
-
-[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardofilho&show_icons=true&theme=dracula)](https://github.com/bernardofilho/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardofilho&layout=compact&langs_count=10&theme=dracula&)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline_block">
+  <a href="https://github.com/bernardofilho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardofilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardofilho&layout=compact&langs_count=16&theme=dracula"/>
 
 
 
