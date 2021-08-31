@@ -1,6 +1,6 @@
 ## Olá, meu nome é Carlos Alberto!! 👋
 
-#### Sou formado em Engenharia Ambiental e Sanitária pelo SENAC e no momento estou fazendo o curso de Formação de Analistas Ambiental.
+#### Sou formado em Engenharia Ambiental e Sanitária pelo SENAC.
 
 #### Atualmente atuo como Consultor Ambiental e trabalho na Operator Assessoria e Análises Ambientais, como Técnico Coletor, realizando coleta, análises de amostras nas matrizes de água, solo, efluentes e resíduos.
   
