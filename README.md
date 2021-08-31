@@ -9,8 +9,8 @@
 ## *Habilidades:*
 <div>
   <a href="https://github.com/bernardofilho"><br>
-  <img height="170em" alt="grafico-carlos" src="https://github-readme-stats.vercel.app/api?username=bernardofilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" alt="skills-carlos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardofilho&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" alt="grafico-carlos" src="https://github-readme-stats.vercel.app/api?username=bernardofilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" alt="skills-carlos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardofilho&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 ## *Linguagens:* 
