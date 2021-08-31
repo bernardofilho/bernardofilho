@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá, meu nome é Carlos Alberto!! 👋
 
-<!--
-**bernardofilho/bernardofilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sou formado em Engenharia Ambiental e Sanitária pelo SENAC e no momento estou fazendo o curso de Formação de Analistas Ambiental.
 
-Here are some ideas to get you started:
+#### Atualmente atuo como Consultor Ambiental e trabalho na Operator Assessoria e Análises Ambientais, como Técnico Coletor, realizando coleta, análises de amostras nas matrizes de água, solo, efluentes e resíduos.
+  
+#### Em março de 2021 comecei a estudar programação na plataforma Alura, onde inicialmente estou focando na formação de **_Front End Web Developer_**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardofilho&show_icons=true&theme=dracula)](https://github.com/bernardofilho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardofilho&layout=compact&langs_count=10&theme=dracula&)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
