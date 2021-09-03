@@ -13,8 +13,7 @@
   <img height="150em" alt="skills-carlos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardofilho&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
-## *Linguagens que estou estudando:* 
-  
+## *Linguagens que estou estudando:*   
 <div>
   <img align="center" alt="Carlos-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img align="center" alt="Carlos-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -23,7 +22,11 @@
   <img align="center" alt="Carlos-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>  
 </div>
   
-##
+## *Redes Sociais:*
+<div>
+  <a href="https://www.linkedin.com/in/carlos-alberto-bernardo/"/>
+  <img height="30" width="40" alt="linkedin-carlos" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> 
+</div>
   
   ![Snake animation](https://github.com/bernardofilho/bernardofilho/blob/output/github-contribution-grid-snake.svg)
   
